@@ -1,6 +1,5 @@
 # Turtle-Launcher
 Turtle Launcher (kind of a fake steam)
-The .exe file is in the "executable" folder.
 
 ## HOW TO INSTALL
 1. Go to the "releases" tab on the right
